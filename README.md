@@ -24,6 +24,7 @@ ___
 ### 📫 How to reach me:
 [![pre-commit](https://img.shields.io/badge/linkedin-bikovshanin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikovshanin/)
 [![pre-commit](https://img.shields.io/badge/Telegram-bikovshanin-26A5E4?logo=telegram&logoColor=white)](https://t.me/bikovshanin)
+[![pre-commit](https://img.shields.io/badge/email-bikovshanin@yandex.ru-005FF9?logo=maildotru&logoColor=white)](mailto:bikovshanin@yandex.ru)
 
 <!--
 **bikovshanin/bikovshanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
