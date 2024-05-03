@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ivan - Pathon Developer
+### Hi there 👋, I'm Ivan - Python Developer
 ___
 
 I'm passionate about coding and always eager to learn and contribute to exciting projects. If you're looking to add a motivated and dedicated team member to your project or if you have an opportunity for a Python developer, I'd love to collaborate with you! Feel free to reach out – I'm ready for new challenges and opportunities.
